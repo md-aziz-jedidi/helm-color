@@ -1,0 +1,4 @@
+apiVersion: v2
+name: hz-color-chart
+description: A Helm chart for Horizon Color App
+version: 0.1.0
